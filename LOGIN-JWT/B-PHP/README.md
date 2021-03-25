@@ -1,5 +1,3 @@
-#RESTFUL API o API REST con slim framework (PHP, SQLServer, PDO)
-
 RESTFUL API o API REST con slim framework (PHP, SQLServer, PDO)
 
 Slim es un micro-framework PHP, que te ayuda a crear API de manera rápida pero rubusta.
